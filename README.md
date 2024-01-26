@@ -1,7 +1,7 @@
 # Anime-Recommendation-System
 A Multi-Armed Bandit based Anime Recommendation System using Epsilon-Greedy, UCB1, and Thompson Sampling algorithms to provide personalized anime suggestions.
 
-# Multi-Armed Bandits for Anime Recommendation System
+## Multi-Armed Bandits for Anime Recommendation System
 
 This repository contains the implementation of a reinforcement learning project using Multi-Armed Bandits (MAB) for an Anime Recommendation System. The project leverages various MAB algorithms to provide personalized anime suggestions based on user preferences.
 
